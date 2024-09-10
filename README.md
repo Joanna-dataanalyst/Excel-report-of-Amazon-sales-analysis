@@ -17,5 +17,19 @@ In this project,I analyzed the Amazon sales data using Excel.
 The analysis shows that Year 2012 had the highest sales. The peak in revenue was revenue was really impressive but there was a massive decline over the years which may need investigation to understand the underlying causes.
 
 
+# Analysis 2 Problem statement
+-what are the top 10 countries generating the highest revenue.
+
+*Solution*
+
+<img width="321" alt="top 10 revenue by country" src="https://github.com/user-attachments/assets/28d24320-f155-4483-93cc-f432be71a632">
+
+The analysis shows that the country Honduras generated the highest revenue followed by Myanmar then Djibouti.
+
+
+
+# Analysis 3 Problem statement
+-
+
 
 
