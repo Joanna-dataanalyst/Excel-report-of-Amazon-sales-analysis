@@ -10,6 +10,7 @@ In this project,I analyzed the Amazon sales data using Excel.
 -what is time series of the revenue data over the years(2010-2017)?
 
 *Solution*
+
 <img width="233" alt="revenue generated over time" src="https://github.com/user-attachments/assets/4f8f4e3a-4d3b-4e10-9cf6-0e59fc854b73">
 
 
