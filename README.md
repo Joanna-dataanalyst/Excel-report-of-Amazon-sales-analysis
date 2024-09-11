@@ -14,7 +14,7 @@ In this project,I analyzed the Amazon sales data using Excel.
 <img width="233" alt="revenue generated over time" src="https://github.com/user-attachments/assets/4f8f4e3a-4d3b-4e10-9cf6-0e59fc854b73">
 
 
-The analysis shows that Year 2012 had the highest sales. The peak in revenue was revenue was really impressive but there was a massive decline over the years which may need investigation to understand the underlying causes.
+The analysis shows that Year 2012 had the highest sales. The peak in revenue was really impressive but there was a massive decline over the years which may need investigation to understand the underlying causes.
 
 
 # Analysis 2 Problem statement
@@ -50,9 +50,14 @@ Europe and Sun-saharan africa have significantly higer revenues compared to othe
 
 
 # Analysis 5 Problem statement
-- 
+-What is the percentage of revenue gotten online and offline from sales?
+
+*solution*
 
 
+<img width="324" alt="online and offine revenue" src="https://github.com/user-attachments/assets/79ffe5db-1a5f-435d-98b2-a11dc069b0db">
+
+Amazon sales generated more revenue offline with 58% then online revenue with 42%.
 
 
 
