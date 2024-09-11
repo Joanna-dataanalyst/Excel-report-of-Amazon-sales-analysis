@@ -18,7 +18,7 @@ The analysis shows that Year 2012 had the highest sales. The peak in revenue was
 
 
 # Analysis 2 Problem statement
--what are the top 10 countries generating the highest revenue.
+-what are the top 10 countries generating the highest revenue?.
 
 *Solution*
 
@@ -29,7 +29,10 @@ The analysis shows that the country Honduras generated the highest revenue follo
 
 
 # Analysis 3 Problem statement
--
+-what is the highest generating revenue by product type?
 
+*Solution*
 
+<img width="251" alt="amazon revenue by product type" src="https://github.com/user-attachments/assets/dd34591b-451a-4078-82d8-7a9b88c7d761">
 
+According to the analysis, the sales of cosmetics generated the highest revenue followed by office supplies then household items.
