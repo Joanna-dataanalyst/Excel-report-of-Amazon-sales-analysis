@@ -60,8 +60,13 @@ Europe and Sun-saharan africa have significantly higer revenues compared to othe
 Amazon sales generated more revenue offline with 58% then online revenue with 42%. This indicates that physical stores or other offline means are atill highly relevant in the sales strategy.
 
 # Data source
-Amazon sales
-It contains only one table/sheet with 15 column and 101 rows
+Amazon sales dataset was gotten from kaggle.
+It contains only one table/sheet with 15 column and 101 rows.
+
+
+# Data transformation and cleaning
+Data was efficiently cleaned on excel,and was analyzed efficiently using power pivot.
+
 
 
 
